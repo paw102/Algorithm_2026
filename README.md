@@ -3,4 +3,8 @@
 
 [SelectionSorting](./homework/selectionSorting.pde)
 
-![Alt homework11](./homework/homework1.jpg)
+![Alt homework1](./homework/homework1.jpg)
+
+[BubbleSorting](./homework/BubbleSorting.pde)
+
+![Alt homework2](./homework/homework2.jpg)
