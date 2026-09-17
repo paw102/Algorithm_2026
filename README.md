@@ -15,4 +15,10 @@
 
 [InsertionSort](./homework/InsertionSort.pde)
 
-![Alt homework2](./homework/homework3.jpg)
+![Alt homework3](./homework/homework3.jpg)
+
+### Homework4
+
+[MergeSort](./homework/MergeSort.pde)
+
+![Alt homework4](./homework/homework4.jpg)
