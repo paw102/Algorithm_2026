@@ -10,3 +10,9 @@
 [BubbleSorting](./homework/BubbleSorting.pde)
 
 ![Alt homework2](./homework/homework2.jpg)
+
+### Homework3
+
+[InsertionSort](./homework/InsertionSort.pde)
+
+![Alt homework2](./homework/homework3.jpg)
