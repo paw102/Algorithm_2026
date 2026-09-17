@@ -22,3 +22,9 @@
 [MergeSort](./homework/MergeSort.pde)
 
 ![Alt homework4](./homework/homework4.jpg)
+
+### Homework4
+
+[QuickSort](./homework/QuickSort.pde)
+
+![Alt homework5](./homework/homework5.jpg)
