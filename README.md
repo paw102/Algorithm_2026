@@ -23,8 +23,14 @@
 
 ![Alt homework4](./homework/homework4.jpg)
 
-### Homework4
+### Homework5
 
 [QuickSort](./homework/QuickSort.pde)
 
 ![Alt homework5](./homework/homework5.jpg)
+
+### Homework6
+
+[HeapSort](./homework/HeapSort.pde)
+
+![Alt homework5](./homework/homework6.jpg)
