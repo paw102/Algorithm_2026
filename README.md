@@ -28,6 +28,8 @@
 ### Homework2
 ![Alt selectionSort](./homework/selectionSort.gif)
 
-![Alt bubblenSort](./homework/bubbleSort.gif)
+![Alt bubbleSort](./homework/bubbleSort.gif)
 
-![Alt bubblenSort](./homework/insertionSort.gif)
+![Alt insertionSort](./homework/insertionSort.gif)
+
+![Alt mergeSort](./homework/mergeSort.gif)
