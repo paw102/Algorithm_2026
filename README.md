@@ -26,6 +26,11 @@
 ![Alt homework5](./homework/homework6.jpg)
 
 ### Homework2
+
+[SortAnimation](./homework/SortAnimation.pde)
+[Array](./homework/Array.pde)
+
+
 ![Alt selectionSort](./homework/selectionSort.gif)
 
 ![Alt bubbleSort](./homework/bubbleSort.gif)
