@@ -38,3 +38,11 @@
 ![Alt insertionSort](./homework/homework2/insertionSort.gif)
 
 ![Alt mergeSort](./homework/homework2/mergeSort.gif)
+
+### Homework3
+
+[BinarySearchTree](./homework/homework3/BinarySearchTree.pde)
+
+![Alt InsertAndDeleteNode](./homework/homework3/BinarySearchTree1.gif)
+
+![Alt Traversal](./homework/homework3/BinarySearchTree2.gif)
