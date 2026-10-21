@@ -29,3 +29,5 @@
 ![Alt selectionSort](./homework/selectionSort.gif)
 
 ![Alt bubblenSort](./homework/bubbleSort.gif)
+
+![Alt bubblenSort](./homework/insertionSort.gif)
