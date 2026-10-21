@@ -24,3 +24,6 @@
 [HeapSort](./homework/HeapSort.pde)
 
 ![Alt homework5](./homework/homework6.jpg)
+
+### Homework2
+![Alt selectionSort](./homework/selectionSort.mp4)
