@@ -28,7 +28,7 @@
 ### Homework2
 
 [SortAnimation](./homework/SortAnimation.pde)
-[Array](./homework/homewrok2/Array.pde)
+[Array](./homework/homework2/Array.pde)
 
 
 ![Alt selectionSort](./homework/selectionSort.gif)
