@@ -7,23 +7,23 @@
 
 [BubbleSorting](./homework/BubbleSorting.pde)
 
-![Alt homework2](./homework/homework2.jpg)
+![Alt homework2](./homework/homework1/homework2.jpg)
 
 [InsertionSort](./homework/InsertionSort.pde)
 
-![Alt homework3](./homework/homework3.jpg)
+![Alt homework3](./homework/homework1/homework3.jpg)
 
 [MergeSort](./homework/MergeSort.pde)
 
-![Alt homework4](./homework/homework4.jpg)
+![Alt homework4](./homework/homework1/homework4.jpg)
 
 [QuickSort](./homework/QuickSort.pde)
 
-![Alt homework5](./homework/homework5.jpg)
+![Alt homework5](./homework/homework1/homework5.jpg)
 
 [HeapSort](./homework/HeapSort.pde)
 
-![Alt homework5](./homework/homework6.jpg)
+![Alt homework5](./homework/homework1/homework6.jpg)
 
 ### Homework2
 
