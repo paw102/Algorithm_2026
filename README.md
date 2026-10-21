@@ -31,10 +31,10 @@
 [Array](./homework/homework2/Array.pde)
 
 
-![Alt selectionSort](./homework/selectionSort.gif)
+![Alt selectionSort](./homework/homework2/selectionSort.gif)
 
-![Alt bubbleSort](./homework/bubbleSort.gif)
+![Alt bubbleSort](./homework/homework2/bubbleSort.gif)
 
-![Alt insertionSort](./homework/insertionSort.gif)
+![Alt insertionSort](./homework/homework2/insertionSort.gif)
 
-![Alt mergeSort](./homework/mergeSort.gif)
+![Alt mergeSort](./homework/homework2/mergeSort.gif)
