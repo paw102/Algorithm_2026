@@ -1,27 +1,27 @@
 # Algorithm2026
 ### Homework1
 
-[SelectionSorting](./homework/selectionSorting.pde)
+[SelectionSorting](./homework/homework1/selectionSorting.pde)
 
 ![Alt homework1](./homework/homework1/homework1.jpg)
 
-[BubbleSorting](./homework/BubbleSorting.pde)
+[BubbleSorting](./homework/homework1/BubbleSorting.pde)
 
 ![Alt homework2](./homework/homework1/homework2.jpg)
 
-[InsertionSort](./homework/InsertionSort.pde)
+[InsertionSort](./homework/homework1/InsertionSort.pde)
 
 ![Alt homework3](./homework/homework1/homework3.jpg)
 
-[MergeSort](./homework/MergeSort.pde)
+[MergeSort](./homework/homework1/MergeSort.pde)
 
 ![Alt homework4](./homework/homework1/homework4.jpg)
 
-[QuickSort](./homework/QuickSort.pde)
+[QuickSort](./homework/homework1/QuickSort.pde)
 
 ![Alt homework5](./homework/homework1/homework5.jpg)
 
-[HeapSort](./homework/HeapSort.pde)
+[HeapSort](./homework/homework1/HeapSort.pde)
 
 ![Alt homework5](./homework/homework1/homework6.jpg)
 
