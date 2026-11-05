@@ -46,3 +46,10 @@
 ![Alt InsertAndDeleteNode](./homework/homework3/BinarySearchTree1.gif)
 
 ![Alt Traversal](./homework/homework3/BinarySearchTree2.gif)
+
+
+
+### Homework5
+[pebbleSum](./homework/homework5/pebbleSum.pde)
+
+![Alt pebbleSum](./homework/homework3/pebbleSum.png)
