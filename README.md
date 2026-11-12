@@ -53,3 +53,8 @@
 [pebbleSum](./homework/homework5/pebbleSum.pde)
 
 ![Alt pebbleSum](./homework/homework5/pebbleSum.png)
+
+### Homework6
+[Graph](./homework/homework6/Graph.pde)
+
+![Alt graph](./homework/homework6/graph.png)
