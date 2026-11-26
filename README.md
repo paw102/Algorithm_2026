@@ -51,7 +51,7 @@
 ### Homework4
 [InfixToPostfix](./homework/homework4/InfixToPostfix.pde)
 
-![Alt InsertAndDeleteNode](./homework/homework4/InfixToPostfix.png)
+![Alt InfixToPostfix](./homework/homework4/InfixToPostfix.png)
 
 
 
@@ -60,7 +60,16 @@
 
 ![Alt pebbleSum](./homework/homework5/pebbleSum.png)
 
+
+
 ### Homework6
 [Graph](./homework/homework6/Graph.pde)
 
 ![Alt graph](./homework/homework6/graph.png)
+
+
+### Homework7
+[Kruskal](./homework/homework7/Kruskal.pde)
+
+![Alt Kruskal](./homework/homework7/Kruskal.png)
+
