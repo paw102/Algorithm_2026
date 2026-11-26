@@ -48,6 +48,12 @@
 ![Alt Traversal](./homework/homework3/BinarySearchTree2.gif)
 
 
+### Homework4
+[InfixToPostfix](./homework/homework4/InfixToPostfix.pde)
+
+![Alt InsertAndDeleteNode](./homework/homework4/InfixToPostfix.png)
+
+
 
 ### Homework5
 [pebbleSum](./homework/homework5/pebbleSum.pde)
